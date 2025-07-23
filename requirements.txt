@@ -1,0 +1,8 @@
+gradio
+python-dotenv
+agents
+pydantic
+sendgrid
+requests
+beautifulsoup4
+openai
